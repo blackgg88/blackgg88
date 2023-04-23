@@ -1,13 +1,8 @@
 ## <div align="center">Hi 👋, I'm Saul Paredes</div>
 
-I'm a full stack developer, I'm more focused on web application development, but I'm always willing to face new challenges and learn in the
-but I'm always willing to face new challenges and learn in the
-process.
+I'm a full-stack developer who is primarily focused on web application development, but I'm always willing to take on new challenges and learn in the process.
 
-I have a desire to grow professionally in search of learning,
-to add value wherever I am and to improve day by day, not only in the academic and labor
-academic and work environment but also in my formation as a person.
-person.
+I have a strong desire to grow professionally, constantly seeking to learn and add value wherever I am, and improve myself not only in academic and work environments but also as a person.
 
 <br/>
 
